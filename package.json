@@ -1,0 +1,9 @@
+{
+  "name": "my-calendar",
+  "private": true,
+  "description": "离线中文日历 PWA",
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "license": "MIT"
+}
